@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: van Steenis
+    given-names: Fjodor
+title: "LocalBLAST Gene identification program"
+version: 1
+date-released: 2023-05-11
+url: "https://github.com/FjodorvanSteenis/GeneIdentification"
